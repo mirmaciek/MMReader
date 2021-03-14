@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224027639673",
+    "firebase_url": "https://mmreader-dbd38.firebaseio.com",
+    "project_id": "mmreader-dbd38",
+    "storage_bucket": "mmreader-dbd38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224027639673:android:12ba072d85d2374ea6b9a8",
+        "android_client_info": {
+          "package_name": "com.mirkiewicz.mmreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224027639673-fu56buf674ri8m6fliph153hdqj61fh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mirkiewicz.mmreader",
+            "certificate_hash": "69d669b1d647da029d07dd917014de10e11d1eba"
+          }
+        },
+        {
+          "client_id": "224027639673-42d0n6gtv44kuam8iljmtahrfqporf71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxqhxhDyK7Q_j47CQO8To_2kxOmOhpu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224027639673-42d0n6gtv44kuam8iljmtahrfqporf71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
